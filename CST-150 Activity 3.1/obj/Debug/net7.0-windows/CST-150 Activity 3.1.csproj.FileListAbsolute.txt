@@ -1,0 +1,16 @@
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\bin\Debug\net7.0-windows\CST-150 Activity 3.1.exe
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\bin\Debug\net7.0-windows\CST-150 Activity 3.1.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\bin\Debug\net7.0-windows\CST-150 Activity 3.1.runtimeconfig.json
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\bin\Debug\net7.0-windows\CST-150 Activity 3.1.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\bin\Debug\net7.0-windows\CST-150 Activity 3.1.pdb
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST_150_Activity_3._1.FrmMain.resources
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.csproj.GenerateResource.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\refint\CST-150 Activity 3.1.dll
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.pdb
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\CST-150 Activity 3.1.genruntimeconfig.cache
+C:\Users\kydec\Desktop\Lindsey School\CSR 150\Activity 3\CST-150 Activity 3.1\obj\Debug\net7.0-windows\ref\CST-150 Activity 3.1.dll
